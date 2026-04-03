@@ -35,3 +35,10 @@ Tested navigation, forms, content display, and overall user experience across de
 
 ## Outcome
 Ensured reliable content publishing workflows, secure role-based access, and stable site functionality across environments.
+
+## Additional Artifacts
+
+- Test Plan
+- Test Cases
+- Bug Reports
+- Requirements Traceability Matrix (RTM)
