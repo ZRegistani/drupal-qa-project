@@ -42,3 +42,12 @@ Ensured reliable content publishing workflows, secure role-based access, and sta
 - test-cases/ → Manual test cases
 - bug-reports/ → Defect tracking samples
 - rtm.md → Requirements Traceability Matrix
+
+## Automation
+
+This project includes sample automation using Selenium WebDriver, Java, and Cucumber to validate Drupal workflows and role-based access.
+
+### Automation Coverage
+- Content draft and publishing workflows
+- Role-based permission validation
+- Access control for anonymous users
